@@ -1,0 +1,45 @@
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\Electronic training manual.exe.config
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Project manual.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Menu.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.TestMenu.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.TestirForm.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Final.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Information.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Practice.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Theory.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Properties.Resources.resources
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Project manual.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Project manual.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Project manual.csproj.CopyComplete
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\MySql.Data.DLL
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\System.Memory.dll
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\bin\Debug\System.Buffers.dll
+C:\Users\artur\OneDrive\Рабочий стол\Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Authorization.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\bin\Debug\Electronic training manual.exe.config
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\bin\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\bin\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\bin\Debug\System.Memory.dll
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\bin\Debug\System.Buffers.dll
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Project manual.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Authorization.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Menu.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.TestMenu.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.TestirForm.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Final.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Information.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Practice.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Theory.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic_training_manual.Properties.Resources.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Project manual.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Project manual.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Project manual.csproj.CopyComplete
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\083_Денисов Д. Д\083_Денисов Д. Д._ИСРПО_ЛР\083_Денисов Д. Д._ИСРПО_ЛР6-12\083_Денисов Д. Д._Программа\Electronic training manual\obj\Debug\Electronic training manual.pdb
